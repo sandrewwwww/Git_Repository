@@ -5,6 +5,8 @@ public class Main {
 		Humen humen = new Humen();
 		humen.clapping();
 		humen.jumping();
+		
+		System.out.println("new commit");
 	}
 	
 }
