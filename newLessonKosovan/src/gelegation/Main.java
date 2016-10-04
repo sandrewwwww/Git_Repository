@@ -7,6 +7,8 @@ public class Main {
 		humen.jumping();
 		
 		System.out.println("new commit");
+		
+		System.out.println("in one brunch");
 	}
 	
 }
